@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @taeminers
+- Starting Front end Development Let's go
