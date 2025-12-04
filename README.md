@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 Hi there! 
+My name is Taemin Lee, but you can just call me Kyle.
 
-<!--
-**taeminers/taeminers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Product-Minded Engineer based in South Korea.
 
-Here are some ideas to get you started:
+I thrive at the intersection of technical execution and strategic product vision. My passion is building robust, scalable platforms and ensuring strong ideas move from concept to execution. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I prioritize the development of market-driven solutions that deliver clear business value over engineering purely technical endeavors.
+
+My Focus Areas:
+
+💻 Frontend Development: Love building UI that moves people. Also have basic backend knowledge.
+
+💡 Product & Strategy: Bridging the gap between stakeholder needs and technical implementation (Product Owner experience in Legal-tech).
+
+🚀 Entrepreneurship: Driven by continuous growth and challenge. Co-founded a personalized news platform during my studies.
+
+Always looking for high-rigor environments and complex technical challenges! Let's build something great. 🤝
+
+Func Facts: 
+* I love coffee AND tea
+* I rarely get mad (really!)
+* Pizza is my favorite food (by far)
+* Hobbies: anime, gym
