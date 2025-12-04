@@ -7,7 +7,12 @@ I thrive at the intersection of technical execution and strategic product vision
 
 I prioritize the development of market-driven solutions that deliver clear business value over engineering purely technical endeavors.
 
-My Focus Areas:
+Always looking for high-rigor environments and complex technical challenges! Let's build something great. 🤝
+
+
+<hr/>
+
+### My focus areas
 
 💻 Frontend Development: Love building UI that moves people. Also have basic backend knowledge.
 
@@ -15,10 +20,15 @@ My Focus Areas:
 
 🚀 Entrepreneurship: Driven by continuous growth and challenge. Co-founded a personalized news platform during my studies.
 
-Always looking for high-rigor environments and complex technical challenges! Let's build something great. 🤝
+### Tech Stack
+* React, Nextjs, Typescript, Tailwind
+* Figma, Notion, Slack, Jira
 
-Func Facts: 
-* I love coffee AND tea
-* I rarely get mad (really!)
-* Pizza is my favorite food (by far)
-* Hobbies: anime, gym
+
+<hr/>
+
+### Get to know me
+* ☕️ I love coffee AND tea
+* 🤗 I rarely get mad (really!)
+* 🍕 Pizza is my favorite food (by far)
+* 🏋 Hobbies: anime, gym
