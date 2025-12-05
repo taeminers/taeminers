@@ -21,7 +21,7 @@ Always looking for high-rigor environments and complex technical challenges! Let
 🚀 Entrepreneurship: Driven by continuous growth and challenge. Co-founded a personalized news platform during my studies.
 
 ### Tech Stack
-* React, Nextjs, Typescript, Tailwind
+* React, Nextjs, Typescript, Tailwind, ShadCN, Vercel, Supabase/Firebase
 * Figma, Notion, Slack, Jira
 
 
